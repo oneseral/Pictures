@@ -1,0 +1,144 @@
+LANGID=1045
+
+[NewVersion]
+00000001 = Nowa wersja Anvide Lock Folder
+00000003=Aktualizuj
+
+[Config]
+00000001 = Opcje
+00000002 = Ustawienia podstawowe
+00000003 = Po zdjêciu ochrony folderu ...
+00000004 = Minimalizuj program
+00000005 = Otwórz folder w Eksploratorze
+00000006 = Przy ustawianiu has³a do folderu ...
+00000007 = Poka¿ has³o
+00000008 = Ostrzegaj, je¿eli nie ma podpowiedzi do has³a
+00000009 = Sprawdzaj czy jest nowsza wersja (zalecane)
+00000010 = Minimalizuj program do zasobnika
+00000016 = Wygl¹d
+00000017 = Skin
+00000018 = Kolor
+00000019 = Kontrast
+00000020 = Wyœwietl grupy w liœcie folderów
+00000021 = Wyœwietl pasek statusu
+00000022 = Efekt Aero
+00000023 = Efekt animacji
+00000024 = Poka¿ psek przycisków
+00000025 = Nie pokazuj okna Darowizna 
+00000026 = Jêzyki
+00000027 = Chroñ wszystkie foldery przy zamykaniu programu
+00000028 = Mocna ochrona folderu
+00000029 = <- Ustaw
+00000030= Zamknij dostêp do folderów, podczas bezczynnoœci u¿ytkownika
+
+[Help]
+00000001 = Pomoc
+00000004 = Pomoc (on-line)
+00000006 = Wyœlij e-mail do autora
+00000008 = Przywróciæ folder(y) po ponownej instalacji systemu operacyjnego Windows
+00000010 = Strona www
+00000012 = Najnowsze wiadomoœci od autora
+
+[Info]
+00000001 = Informacje o programie
+00000003 = Program do ograniczenia dostêpu do folderów. Szybko i ³atwo ...
+00000004 = O programie
+00000005 = Program do ochrony dostêpu do folderów.\nOpis:\n- Prosty i intuicyjny interfejs u¿ytkownika.\n- Mo¿liwoœæ ustawienia has³a dla ka¿dego folderu.\n- Obecnoœæ "gor¹cych" klawiszy pozwala pracowaæ szybciej.\n- Dzia³a portable. Nie wymaga instalacji z systemu operacyjnego. Mo¿na wygodnie korzystaæ z program na noœniku wymiennym.\n- Wsparcie dla skórek. Mo¿na ³atwo zmieniæ wygl¹d.\n- Ma³y rozmiar. Trochê wiêcej ni¿ megabajt.\n- Dostêpna praca z wiersza polecenia.
+00000007 = Umowa licencyjna
+00000008 = Umowa licencyjna.\nProgram ten jest chroniony prawem autorskim. Oprogramowanie jest DARMOWE. Zakaz wszelkiego rodzaju zmian w programie bez zgody autora.\nMo¿na publikowaæ ten program na p³ycie CD, umieœciæ go na swojej stronie internetowej lub w link do naszej strony.\nProgram i wszystkie zwi¹zane z nim pliki s¹ rozpowszechniane "AS IS". Autor, nie ponosi odpowiedzialnoœci za jakiekolwiek szkody wyrz¹dzone przy korzystaniu z programu..\nNale¿y byæ w pe³ni œwiadomym ryzyka korzystania z programu.\n \n Copyright © 2011-2014 Anvide Labs http://anvidelabs.org
+00000010 = Podziêkowania
+
+[Lock]
+00000001 = Chroñ ten folder
+00000002 = Has³o
+00000003 = Poka¿ has³o
+00000004 = PodpowiedŸ do has³a
+00000005 = PotwierdŸ has³o
+00000006 = Chroñ
+00000007 = Anuluj
+
+[Login]
+00000001 = Has³o
+00000003 = Poka¿ has³o
+00000007 = Anuluj
+00000008 = WprowadŸ has³o, aby siê zalogowaæ
+00000009 = OK
+
+[Main]
+00000001 = Anvide Lock Folder
+00000004 = Niezabezpieczony folder(y)
+00000005 = Zabezpieczony folder(y)
+00000006 = Niedostêpny folder(y)
+00000008 = Chroñ zabronione
+00000011 = Datek dla programisty
+00000014 = Ostrze¿enie!\nAby korzystaæ z programu, nale¿y mieæ uprawnienia administratora.
+00000015 = Wszystkie foldery chronione.
+00000041 = Dodaj folder
+00000043 = Usuñ folder
+00000045 = Chroñ
+00000047 = Chroñ wszystkie foldery
+00000049 = Zdejmij ochronê
+00000051 = Zdejmij ochronê wszystkich folderów
+00000053 = Informacje o programie
+00000055 = Pomoc
+00000057 = Opcje
+00000058 = Otwórz w Eksploratorze
+00000061 = Przywróæ folder(y) po reinstalacji systemu operacyjnego Windows
+00000062 = Wyjœcie
+00000064 = G³ówne okno
+00000069 = Has³o
+
+[RecovDirs]
+00000001 = Centrum przywracania
+00000007 = Anuluj
+00000008 = Dalej
+00000009 = Przywracanie folderów chronionych.\nMo¿e to potrwaæ kilka minut.
+00000010 = Gotowe.
+
+[UnLock]
+00000001 = Chroñ ten folder
+00000007 = Anuluj
+00000008 = Poka¿ has³o
+00000009 = Has³o
+00000010 = Zdejmij ochronê
+00000011=Czasowe zamkniêcie folderu
+
+[ConfigUnlocker]
+00000001 = Ustawienia Unlocker 
+00000002 = Aby korzystaæ z tej funkcji, nale¿y zainstalowaæ program "Unlocker" .\nWybierz œcie¿kê do "Unlocker.exe".
+00000003 = << Pobierz Unlocker >>
+
+[Skins]
+00000002 = Pobierz dodatkowe skórki
+
+[EUP]
+00000001=Ostrze¿enie! Próbowano otworzyæ folder, nieprawid³owe has³o.
+00000002=Prób:
+00000003=Data i czas:
+00000004=Has³o:
+
+[RecovPass]
+00000001=Resetowanie has³a
+00000002=Domyœlne has³o
+00000003=Przypomnij has³o
+
+[$CONSTANTS]
+AlmErrorPass = Nieprawid³owe has³o.
+CntDelDir1 = Nie mo¿na usun¹æ folderu chronionego has³em lub chronionego folder(y) z listy.
+CntDelDir2 = Usun¹æ ten folder z listy?
+CntOnProtect1 = Nie mo¿na chroniæ
+CntOnProtect2 = Wyjœæ z programu?
+ErrOffProtect = Nie uda³o siê zdj¹æ ochrony. Mo¿esz nie mieæ uprawnieñ administratora.
+ErrSetProtect = Nie mo¿na chroniæ\nPrawdopodobnie jest on u¿ywany przez inny program lub nie masz uprawnieñ administratora.
+HelperPass = Wskazówka:
+InfLastTimeLockDir=Zablokowany
+InfCountRecovDirs = Odzyskany folder(y):
+InfCountSearchDirs = Odszukany Foldey(y):
+InfRestartProgramm = Teraz uruchom ponownie program
+PredForUser = PAMIÊTAJ.\nPrzed ponown¹ instalacji¹ systemu Windows nale¿y wy³¹czyæ ochronê wszystkich folderów.\nPozwoli to unikn¹æ ewentualnej utracie Twoich informacji.
+QstEnterPass = WprowadŸ has³o.
+QstRecovDir = Folder nie zosta³ znaleziony.\nSpróbowaæ przywróciæ?
+QstSetHelperPass = Ustaw podpowiedŸ do has³a?
+AlmNProConfPass=Ma³y procent dopasowania
+ErrConnecting=B³¹d po³¹czenia
+TimerOFF=wy³¹cz

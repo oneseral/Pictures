@@ -1,0 +1,144 @@
+LANGID=10
+
+[NewVersion]
+00000001 = Nueva version de Anvide Lock Folder
+00000003=Update
+
+[Config]
+00000001 = Opciones
+00000002 = Configuraciones basicas
+00000003 = Despues de desproteger carpeta ...
+00000004 = Minimizar programa
+00000005 = Abrir Carpeta en Explorer
+00000006 = En los ajustes de contraseña de una carpeta ...
+00000007 = Mostrar contraseña
+00000008 = Advertir si no hay contraseña oculta
+00000009 = Buscar nueva version (Recomendado)
+00000010 = Minimizar programa a bandeja
+00000016 = Apariencia
+00000017 = Piel
+00000018 = Color
+00000019 = Contraste
+00000020 = Ver grupo en lista de carpetas
+00000021 = Ver barra de estado
+00000022 = Efecto Aero
+00000023 = Efecto de animacion
+00000024 = Mostrar barra de botones
+00000025 = No mostrar la ventana Donar 
+00000026 = Languaje
+00000027 = Protejer todas las carpetas al salir
+00000028 = Forzar bloqueo de carpeta(s)
+00000029 = <- Ajuste
+00000030= Close access to folders when the user is idle
+
+[Help]
+00000001 = Ayuda
+00000004 = Manual (online)
+00000006 = Enviar Email al autor
+00000008 = Restaurar carpetas(s) despues de reinstalar tu SO Windows
+00000010 = Pagina web
+00000012 = Ultimas noticias del autor
+
+[Info]
+00000001 = Informacion del programa
+00000003 = Programa para restringir acceso a carpetas. Rapido y Facil ...
+00000004 = Acerca
+00000005 = Programa para bloquear acceso a carpetas.\nBeneficios:\n- Una simple y intuitiva interface de usuario. Puedes leer rapidamete como usar el programa.\n- Opcion para ajustar contraseñas para cada programa.\n- La presencia de "Combinacion" de teclas hace rapido tu trabajo.\n- Trabaja como portable. No requiere instalacion con el sistema operativo. Es conveniente de usar en removible media.\n- Soporte de pieles. Puesdes cambiar facilmente la apariencia.\n- Distribucion en pequeña medida. Un poco mas que un megabyte.\n- Disponible trabajando desde la linea de comandos.
+00000007 = Acuedo de Licencia
+00000008 = Acuedo de Licencia.\nEste programa esta protegido por leyes de derechos de autor. Este producto de software es FREEWARE. Prohibidos todos los cambios en el programa sin el permiso del author.\nTu puedes publicar este software en CD, pon en tu sitio web una referencia de nuestra presencia con un enlace de nuestro web site.\nEl programa y los archivos relacionados son distribuidos "COMO ES", el autor no se responsabiliza por daños, incidentes o consequencias de daños de cualquier especie relacionado a el uso de el software.\nTu debes comprender completamente el riesgo de usar este producto.\n \n Copyright © 2011-2014 Anvide Labs http://anvidelabs.org
+00000010 = Gracias
+
+[Lock]
+00000001 = Proteger esta carpeta
+00000002 = Contraseña
+00000003 = Mostrar Contraseña
+00000004 = Contraseña oculta
+00000005 = Confirmacion
+00000006 = Proteger
+00000007 = Cancelar
+
+[Login]
+00000001 = Contraseña
+00000003 = Mostrar Contraseña
+00000007 = Cancelar
+00000008 = Ingresar contraseña
+00000009 = OK
+
+[Main]
+00000001 = Anvide Lock Folder
+00000004 = Carpeta(s) desprotegidas
+00000005 = Carpeta(s) protegidas
+00000006 = Carpeta(s) no disponible
+00000008 = Proteccion-prohibida
+00000011 = Donar
+00000014 = Advertencia!\nPara usar el programa, debes tener derechos administrativos.
+00000015 = Todas las carpetas estan bloqueadas.
+00000041 = Añadir carpeta
+00000043 = Eliminar carpeta
+00000045 = Proteger
+00000047 = Proteger todas las carpetas
+00000049 = Desproteger
+00000051 = Desproteger todas las carpetas
+00000053 = Informacion del programa
+00000055 = Ayuda
+00000057 = Opciones
+00000058 = Abrir en Explorador
+00000061 = Restaurar carpeta(s) despues de reinstalar tu SO Windows
+00000062 = Salir
+00000064 = Ventana Principal
+00000069 = Contraseña de identificacion
+
+[RecovDirs]
+00000001 = Centro de Restauracion
+00000007 = Cancelar
+00000008 = Siguiente
+00000009 = Restaurando carpetas protegidas.\nPuede tomar varios minutos.
+00000010 = Hecho.
+
+[UnLock]
+00000001 = Desproteger esta carpeta
+00000007 = Cancelar
+00000008 = Mostrar contraseña
+00000009 = contraseña
+00000010 = Desproteger
+00000011=Timer closing folder
+
+[ConfigUnlocker]
+00000001 = Unlocker ajustes 
+00000002 = Para usar esta funcion debes instalar el programa "Unlocker" .\nEspecificar el directorio de "Unlocker.exe".
+00000003 = << Descargar Unlocker >>
+
+[Skins]
+00000002 = Descargar pieles adicionales
+
+[EUP]
+00000001=Warning! An attempt was made to open the folder the wrong password.
+00000002=Attempts:
+00000003=Date and time:
+00000004=Password:
+
+[RecovPass]
+00000001=Password reset
+00000002=Guessed password
+00000003=Recover password
+
+[$CONSTANTS]
+AlmErrorPass = Contraseña incorrecta.
+CntDelDir1 = No puedes borrar la carpeta de la proteccion con contraseña o la lista de carpetas protegidas.
+CntDelDir2 = Borrar esta carpeta de la lista?
+CntOnProtect1 = Fallo en bloqueo
+CntOnProtect2 = Salir del programa?
+ErrOffProtect = Fallo desbloqueo. Tu no cuentas con derechos administrativos.
+ErrSetProtect = Fallo en bloqueo\nProbablemente esta siendo usado por otro programa o no cuentas con derechos administrativos.
+HelperPass = Oculto:
+InfLastTimeLockDir=Locked
+InfCountRecovDirs = Carpetas recuperada(s):
+InfCountSearchDirs = Encontrar carpeta(s):
+InfRestartProgramm = Reiniciar el programa ahora
+PredForUser = RECUERDA.\nAntes de reinstalar Windows debes desproteger todas las carpetas.\nEsto ayudara a posible perdida de tu informacion.
+QstEnterPass = Entrar contraseña.
+QstRecovDir = Carpeta no encontrada.\nIntentar restaurarla?
+QstSetHelperPass = Ajuste una contraseña oculta?
+AlmNProConfPass=Low percentage match
+ErrConnecting=Connection error
+TimerOFF=off

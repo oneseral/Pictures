@@ -1,0 +1,144 @@
+LANGID=2052
+
+[NewVersion]
+00000001 = Anvide Lock FolderµÄĞÂ°æ±¾
+00000003=Update
+
+[Config]
+00000001 = Ñ¡Ïî
+00000002 = »ù±¾ÉèÖÃ
+00000003 = After unprotect a folder ...
+00000004 = ×îĞ¡»¯½çÃæ
+00000005 = ÔÚ×ÊÔ´¹ÜÀíÆ÷ÖĞ´ò¿ªÎÄ¼ş¼Ğ
+00000006 = µ±ÎªÎÄ¼ş¼ĞÉèÖÃÃÜÂëÊ± ...
+00000007 = ÏÔÊ¾ÃÜÂë
+00000008 = È±ÉÙÃÜÂëÌáÊ¾Ê±·¢³ö¾¯¸æ
+00000009 = ÉèÖÃ¼ì²éĞÂ°æ±¾(ÍÆ¼ö)
+00000010 = ×îĞ¡»¯³ÌĞòµ½ÍĞÅÌ
+00000016 = Íâ¹Û
+00000017 = Æ¤·ô
+00000018 = ÑÕÉ«
+00000019 = ¶Ô±È¶È
+00000020 = ÒÔ×éµÄĞÎÊ½ÔÚÎÄ¼şÁĞ±íÏÔÊ¾
+00000021 = ÏÔÊ¾×´Ì¬À¸
+00000022 = AeroĞ§¹û
+00000023 = ¶¯»­Ğ§¹û
+00000024 = ÏÔÊ¾Ö÷Ò³°´Å¥
+00000025 = ²»ÏÔÊ¾¾èÖú´°¿Ú 
+00000026 = ÓïÖÖ
+00000027 = ³ÌĞòÍË³öºó±£»¤ËùÓĞÎÄ¼ş¼Ğ
+00000028 = Ç¿ÖÆËø¶¨ÎÄ¼ş¼Ğ(s)
+00000029 = <- Set
+00000030= Close access to folders when the user is idle
+
+[Help]
+00000001 = °ïÖú
+00000004 = ÊÖ²á(ÔÚÏß)
+00000006 = ¸ø×÷Õß·¢Email
+00000008 = ÖØ×°ÏµÍ³ºó»Ö¸´ÎÄ¼ş¼Ğ(s)
+00000010 = ¹ÙÍøÖ÷Ò³
+00000012 = À´×Ô×÷ÕßµÄ×îĞÂÏûÏ¢
+
+[Info]
+00000001 = ³ÌĞòĞÅÏ¢
+00000003 = Program to restrict access to folders. Quickly and easily ...
+00000004 = ¹ØÓÚ
+00000005 = Program to block access to folders.\nFeatures:\n- A simple and intuitive user interface. You can quickly learn how to use the program.\n- Ability to set passwords for each folder.\n- The presence of "hot" keys allow you to work faster.\n- Works portable. Does not require installation with the operating system. It is convenient to use the program on removable media.\n- Support for skins. You can easily change the look.\n- Small size distribution. A little more than a megabyte.\n- Available work from the command line.
+00000007 = License Agreement
+00000008 = License Agreement.\nThis program is protected by copyright law. The software product is FREEWARE. Prohibits all sorts of changes in the program without the permission of the author.\nYou can publish this software on CD, put it on your website or refer to it in the presence of a link to our site.\nProgram and all accompanying files are distributed "AS IS", ie author is not liable for any damages, incidental or consequential damages of any kind related to the use of the software.\nYou should be fully aware of the risk of using the product.\n \n Copyright © 2011-2014 Anvide Labs http://anvidelabs.org
+00000010 = Thanks
+
+[Lock]
+00000001 = ±£»¤´ËÎÄ¼ş¼Ğ
+00000002 = ÃÜÂë
+00000003 = ÏÔÊ¾ÃÜÂë
+00000004 = ÃÜÂëÌáÊ¾
+00000005 = È·ÈÏ
+00000006 = ±£»¤
+00000007 = È¡Ïû
+
+[Login]
+00000001 = ÃÜÂë
+00000003 = ÏÔÊ¾ÃÜÂë
+00000007 = È¡Ïû
+00000008 = ÊäÈëÃÜÂëÒÔµÇÂ¼
+00000009 = È·¶¨
+
+[Main]
+00000001 = Anvide Lock Folder
+00000004 = Î´Éè·ÀÎÄ¼ş¼Ğ(s)
+00000005 = ÒÑÉè·ÀÎÄ¼ş¼Ğ(s)
+00000006 = ÎŞĞ§ÎÄ¼ş¼Ğ(s)
+00000008 = È¨ÏŞ±£»¤
+00000011 = ¾èÖú
+00000014 = ¾¯¸æ!\nÒªÊ¹ÓÃ´Ë³ÌĞò, Äú±ØĞë¾ß±¸¹ÜÀíÔ±È¨ÏŞ.
+00000015 = ËùÓĞÎÄ¼ş¼Ğ¶¼ÒÑËø¶¨.
+00000041 = Ìí¼ÓÎÄ¼ş¼Ğ
+00000043 = É¾³ıÎÄ¼ş¼Ğ
+00000045 = ±£»¤
+00000047 = ±£»¤ËùÓĞÎÄ¼ş¼Ğ
+00000049 = Î´±£»¤
+00000051 = Î´±£»¤ËùÓĞÎÄ¼ş¼Ğ
+00000053 = ³ÌĞòĞÅÏ¢
+00000055 = °ïÖú
+00000057 = Ñ¡Ïî
+00000058 = ÔÚ×ÊÔ´¹ÜÀíÆ÷ÖĞ´ò¿ª
+00000061 = ÖØ×°ÏµÍ³ºó»Ö¸´ÎÄ¼ş¼Ğ(s)
+00000062 = ÍË³ö
+00000064 = Ö÷´°¿Ú
+00000069 = µÇÂ¼ÃÜÂë
+
+[RecovDirs]
+00000001 = »Ö¸´ÖĞĞÄ
+00000007 = È¡Ïû
+00000008 = ÏÂÒ»²½
+00000009 = »Ö¸´ÒÑÉè·ÀÎÄ¼ş¼Ğ.\nIÕâ¿ÉÄÜĞèÒª¼¸·ÖÖÓ.
+00000010 = ÒÑÍê³É.
+
+[UnLock]
+00000001 = Î´±£»¤´ËÎÄ¼ş¼Ğ
+00000007 = È¡Ïû
+00000008 = ÏÔÊ¾ÃÜÂë
+00000009 = ÃÜÂë
+00000010 = Î´±£»¤
+00000011=Timer closing folder
+
+[ConfigUnlocker]
+00000001 = UnlockerÉè¶¨ 
+00000002 = ÒªÊ¹ÓÃ´Ë¹¦ÄÜÄúÓ¦¸Ã°²×°"Unlocker"³ÌĞò.\nÇë¶¨Î»µ½"Unlocker.exe"ÎÄ¼ş.
+00000003 = << ÏÂÔØUnlocker >>
+
+[Skins]
+00000002 = ÏÂÔØ¸½¼ÓÆ¤·ô
+
+[EUP]
+00000001=Warning! An attempt was made to open the folder the wrong password.
+00000002=Attempts:
+00000003=Date and time:
+00000004=Password:
+
+[RecovPass]
+00000001=Password reset
+00000002=Guessed password
+00000003=Recover password
+
+[$CONSTANTS]
+AlmErrorPass = ÃÜÂë²»ÕıÈ·.
+CntDelDir1 = Äú²»ÄÜ´ÓÓĞÃÜÂë±£»¤µÄ»òÒÑÉè·ÀµÄÎÄ¼ş¼Ğ(s)ÁĞ±íÖĞÉ¾³ı´ËÎÄ¼ş¼Ğ.
+CntDelDir2 = ÄúÒª´ÓÁĞ±íÖĞÉ¾³ı´ËÎÄ¼ş¼ĞÂğ?
+CntOnProtect1 = ²»ÄÜËø¶¨
+CntOnProtect2 = ÄúÒªÍË³ö³ÌĞòÂğ?
+ErrOffProtect = ²»ÄÜ½âËø. Äú¿ÉÄÜÃ»ÓĞ¹ÜÀíÔ±È¨ÏŞ.
+ErrSetProtect = ²»ÄÜËø¶¨\n¿ÉÄÜÊÇÓÉÓÚÆäËû³ÌĞòÕıÔÚÊ¹ÓÃËü»òÊÇÄúÃ»ÓĞ¹ÜÀíÔ±È¨ÏŞ.
+HelperPass = ÌáÊ¾:
+InfLastTimeLockDir=Locked
+InfCountRecovDirs = ÒÑ»Ö¸´ÎÄ¼ş¼Ğ(s):
+InfCountSearchDirs = ·¢ÏÖµÄÎÄ¼ş¼Ğ(s):
+InfRestartProgramm = ÏÖÔÚÒªÖØÆô³ÌĞò
+PredForUser = ½÷¼Ç.\nÖØ×°ÏµÍ³Ç°Äú±ØĞë½âËøËùÓĞÎÄ¼ş¼ĞµÄËø¶¨×´Ì¬.\nTÕâÑù×öÊÇÎªÁË±ÜÃâÄúµÄĞÅÏ¢ÒâÍâ¶ªÊ§.
+QstEnterPass = ÊäÈëÃÜÂë.
+QstRecovDir = Î´·¢ÏÖÎÄ¼ş¼Ğ.\nÒª³¢ÊÔ»Ö¸´Âğ?
+QstSetHelperPass = ÒªÉèÖÃÒ»ÌõÃÜÂëÌáÊ¾Âğ?
+AlmNProConfPass=Low percentage match
+ErrConnecting=Connection error
+TimerOFF=off
