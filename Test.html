@@ -1,0 +1,68 @@
+<html><head>
+    <title>演示获取Table的值</title>
+    <script type ="text/javascript" language ="javascript" >
+    // Description: 演示用JavaScript，获取Table中指定行、列元素值
+
+   // CopyRight: http://www.cnblogs.com/yangmingming
+
+   // Notes: 采用简单的Table，并结合TextBox获取之
+
+    function GetTable23()
+    {
+        var txt=document .getElementById ("txtReceiver");
+        
+        //第一种：用标记id的td元素，获取值方法
+        //txt.value=document .getElementById ("23").innerHTML ;
+        
+        //第二种：用获取Table（通过其id），指定获取的行、列
+        var valueTd=document .getElementById ("tbl").rows[0].cells[0];
+        txt.value=valueTd.innerHTML ;
+       
+   
+    }
+
+    var test = ['testa', function() {
+    	alert(123);
+    }];
+    </script>
+</head>
+<body>
+        <table style="width: 100%;" id ="tbl">
+            <tr>
+                <td>
+				2
+                </td>
+                <td>
+				3
+                </td>
+                <td>
+				4
+                </td>
+            </tr>
+            <tr>
+                <td>
+				1
+                </td>
+                <td>
+				2
+                </td>
+                <td id ="23">
+				3
+                </td>
+            </tr>
+            <tr>
+                <td>
+				3
+                </td>
+                <td>
+				3
+                </td>
+                <td>
+				3
+                </td>
+            </tr>
+        </table>
+        <input id="btnSubmit" type="button" value="获取" onclick ="testa()"; />
+		<input id="txtReceiver" type="text" value="" />
+</body>
+</html>
